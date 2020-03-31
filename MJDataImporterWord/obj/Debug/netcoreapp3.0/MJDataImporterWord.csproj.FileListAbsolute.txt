@@ -1,0 +1,13 @@
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\bin\Debug\netcoreapp3.0\MJDataImporterWord.exe
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\bin\Debug\netcoreapp3.0\MJDataImporterWord.deps.json
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\bin\Debug\netcoreapp3.0\MJDataImporterWord.runtimeconfig.json
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\bin\Debug\netcoreapp3.0\MJDataImporterWord.runtimeconfig.dev.json
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\bin\Debug\netcoreapp3.0\MJDataImporterWord.dll
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\bin\Debug\netcoreapp3.0\MJDataImporterWord.pdb
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\obj\Debug\netcoreapp3.0\MJDataImporterWord.csprojAssemblyReference.cache
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\obj\Debug\netcoreapp3.0\MJDataImporterWord.csproj.CoreCompileInputs.cache
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\obj\Debug\netcoreapp3.0\MJDataImporterWord.AssemblyInfoInputs.cache
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\obj\Debug\netcoreapp3.0\MJDataImporterWord.AssemblyInfo.cs
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\obj\Debug\netcoreapp3.0\MJDataImporterWord.dll
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\obj\Debug\netcoreapp3.0\MJDataImporterWord.pdb
+C:\Users\tjtj\source\repos\MJDataImporterWord\MJDataImporterWord\obj\Debug\netcoreapp3.0\MJDataImporterWord.genruntimeconfig.cache
